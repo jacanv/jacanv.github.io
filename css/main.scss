@@ -205,6 +205,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: center;
 	}
 
+	.no-margin {
+		margin: 0;
+	}
+
 	.align-right {
 		text-align: right;
 	}
